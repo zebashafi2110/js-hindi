@@ -50,7 +50,6 @@ if (userLoggedIn  && debitCard && 2==3){
  
 }
 
-if(LoggedInFromGoogle 
+if(LoggedInFromGoogle )
 
 
-)
